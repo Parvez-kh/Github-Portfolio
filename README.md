@@ -1,6 +1,6 @@
 # Hi there, I'm Parvez Khan 👋  
 
-**Microsoft Certified Power BI Data Analyst | IASSC Certified Lean Practitioner | Business Leader in Supply Chain & Continuous Improvement**
+**PMP-PMI Certfied, Microsoft Certified Power BI Data Analyst | IASSC Certified Lean Practitioner | Business Leader in Supply Chain & Continuous Improvement**
 
 ---
 
@@ -18,6 +18,7 @@ Over the course of my career, I’ve led **global cross-functional teams**, deli
 
 ## Certifications  
 
+- **PMP-PMI Certified Project Management Professional** – leading Projects driving efficiency, and delivering value  
 - **IASSC Certified Lean Practitioner** – Driving Lean transformation and process excellence  
 - **Microsoft Certified Power BI Data Analyst** – Building insights-driven dashboards for decision-making  
 - **Certified Scrum Master (Scrum Inc.)** – Agile delivery of business value  
@@ -28,10 +29,11 @@ Over the course of my career, I’ve led **global cross-functional teams**, deli
 ## Portfolio Highlights  
 
 Here you’ll find a mix of my **data analytics**, **supply chain optimization**, and **continuous improvement** projects:  
-- **Power BI Dashboards** – Visualizing supply chain KPIs and business performance metrics  
+- **Power BI Dashboards and Tableau Proficiency** – Visualizing supply chain KPIs and business performance metrics  
 - **Lean & CI Case Studies** – Examples of Kaizen events, VSM analyses, and process improvement success stories  
 - **Excel-based Analytical Models** – Forecasting and inventory optimization templates  
-- **Business Process Automation** – Showcasing workflow improvements with cost savings and efficiency outcomes  
+- **Business Process Automation** – Showcasing workflow improvements with cost savings and efficiency outcomes
+- **Business Projects and Management** – Showcasing Project Examples using Projects Tools like **MS Project, ProjectLibre, PrimaveraP6 and MS Visio** 
 
 ---
 
@@ -41,8 +43,9 @@ Here you’ll find a mix of my **data analytics**, **supply chain optimization**
 - **ERP & Supply Chain:** SAP (MM, SD, FICO, BW), Coupa (Llamasoft)  
 - **Continuous Improvement Tools:** Kaizen, VSM, DMAIC, 5S, Gemba  
 - **Programming & Scripting:** SQL, Python (Basic for analytics use cases)  
-- **Collaboration & Project Tools:** MS Office, Smartsheets, Jira  
-
+- **Collaboration & Project Tools:** MS Office, Smartsheets, Jira
+- **MS Project, ProjectLibre, PrimaveraP6 and MS Visio** 
+  
 ---
 
 ## How to Reach Me  
